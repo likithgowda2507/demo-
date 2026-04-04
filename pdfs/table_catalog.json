@@ -1,0 +1,1088 @@
+{
+  "pdf_count": 74,
+  "documents": {
+    "1. SOP - Project Management Office(PMO) UTSFPMOSOP.pdf": {
+      "raci": {
+        "pages": [
+          5,
+          6,
+          11
+        ],
+        "score": 15
+      },
+      "sipoc": {
+        "pages": [
+          6
+        ],
+        "score": 4
+      }
+    },
+    "1. SOP - Security Requirement UTIECSOP01.pdf": {
+      "raci": {
+        "pages": [
+          5
+        ],
+        "score": 5
+      },
+      "sipoc": {
+        "pages": [
+          6
+        ],
+        "score": 5
+      }
+    },
+    "1. SOP-Hardware Kitting (HK) UTSDHPSOP.pdf": {
+      "raci": {
+        "pages": [
+          7,
+          11
+        ],
+        "score": 6
+      },
+      "sipoc": {
+        "pages": [
+          7
+        ],
+        "score": 5
+      }
+    },
+    "2. SOP - Secure Design UTIECSOP02.pdf": {
+      "raci": {
+        "pages": [
+          5
+        ],
+        "score": 5
+      },
+      "sipoc": {
+        "pages": [
+          5
+        ],
+        "score": 1
+      }
+    },
+    "2. SOP- Project Management in Industrial Solutions  UTSFPMOSOP02.pdf": {
+      "raci": {
+        "pages": [
+          6,
+          17
+        ],
+        "score": 11
+      },
+      "sipoc": {
+        "pages": [
+          6
+        ],
+        "score": 3
+      }
+    },
+    "3. SOP - Secure Implementation UTIECSOP03.pdf": {
+      "raci": {
+        "pages": [
+          5
+        ],
+        "score": 3
+      },
+      "sipoc": {
+        "pages": [
+          5
+        ],
+        "score": 3
+      }
+    },
+    "4. SOP - Security Verification And Validation UTIECSOP04.pdf": {
+      "raci": {
+        "pages": [
+          5
+        ],
+        "score": 4
+      },
+      "sipoc": {
+        "pages": [
+          6
+        ],
+        "score": 4
+      }
+    },
+    "OTS Project Execution Procedure UTPPXOTSSOP.pdf": {
+      "raci": {
+        "pages": [
+          11,
+          12,
+          13,
+          14,
+          23,
+          24,
+          35
+        ],
+        "score": 121
+      },
+      "sipoc": {
+        "pages": [
+          15
+        ],
+        "score": 3
+      }
+    },
+    "SOP  Manufacturing Mono Block III UTTMFGSOP10.pdf": {
+      "raci": {
+        "pages": [
+          5,
+          10
+        ],
+        "score": 11
+      },
+      "sipoc": {
+        "pages": [
+          6
+        ],
+        "score": 6
+      }
+    },
+    "SOP - Causal Analysis and Resolution (CAR) UTIMCARSOP.pdf": {
+      "raci": {
+        "pages": [
+          5,
+          6
+        ],
+        "score": 7
+      },
+      "sipoc": {
+        "pages": [
+          6
+        ],
+        "score": 3
+      }
+    },
+    "SOP - Engineering Procurement and Construction UTEPCSOP.pdf": {
+      "raci": {
+        "pages": [
+          2,
+          6,
+          8
+        ],
+        "score": 12
+      },
+      "sipoc": {
+        "pages": [],
+        "score": 0
+      }
+    },
+    "SOP - Inventory Management UTSFINVMSOP.pdf": {
+      "raci": {
+        "pages": [
+          6,
+          13
+        ],
+        "score": 20
+      },
+      "sipoc": {
+        "pages": [
+          7
+        ],
+        "score": 3
+      }
+    },
+    "SOP - Learning & Development (LDP) UTSFLDPSOP.pdf": {
+      "raci": {
+        "pages": [
+          2,
+          7
+        ],
+        "score": 6
+      },
+      "sipoc": {
+        "pages": [],
+        "score": 0
+      }
+    },
+    "SOP - Opportunity Management (OMP)-UTSMOMPSOP.pdf": {
+      "raci": {
+        "pages": [
+          3,
+          6
+        ],
+        "score": 14
+      },
+      "sipoc": {
+        "pages": [
+          7
+        ],
+        "score": 5
+      }
+    },
+    "SOP - Packing and Shipment UTPSPASSOP.pdf": {
+      "raci": {
+        "pages": [
+          12,
+          16
+        ],
+        "score": 22
+      },
+      "sipoc": {
+        "pages": [
+          7
+        ],
+        "score": 2
+      }
+    },
+    "SOP - Payroll Process UTSFREPSOP01.pdf": {
+      "raci": {
+        "pages": [
+          5
+        ],
+        "score": 3
+      },
+      "sipoc": {
+        "pages": [],
+        "score": 0
+      }
+    },
+    "SOP - Process Management(PMP) - UTIMPMPSOP.pdf": {
+      "raci": {
+        "pages": [
+          4,
+          6,
+          8,
+          9
+        ],
+        "score": 42
+      },
+      "sipoc": {
+        "pages": [
+          6
+        ],
+        "score": 1
+      }
+    },
+    "SOP - Product Development Lifecycle - UTSDPDLCSOP.pdf": {
+      "raci": {
+        "pages": [
+          2,
+          6,
+          7,
+          20
+        ],
+        "score": 29
+      },
+      "sipoc": {
+        "pages": [
+          7
+        ],
+        "score": 3
+      }
+    },
+    "SOP - Quantitative Process Management UTIMQPMSOP.pdf": {
+      "raci": {
+        "pages": [
+          5
+        ],
+        "score": 6
+      },
+      "sipoc": {
+        "pages": [
+          6
+        ],
+        "score": 6
+      }
+    },
+    "SOP - Resource Management UTSFREPSOP02.pdf": {
+      "raci": {
+        "pages": [
+          6,
+          7,
+          18
+        ],
+        "score": 34
+      },
+      "sipoc": {
+        "pages": [],
+        "score": 0
+      }
+    },
+    "SOP - Statutory Regulatory Compliance Management UTSFLSSOP02.pdf": {
+      "raci": {
+        "pages": [
+          5,
+          6,
+          8,
+          17,
+          23
+        ],
+        "score": 35
+      },
+      "sipoc": {
+        "pages": [
+          7
+        ],
+        "score": 3
+      }
+    },
+    "SOP - Talent Acquisition UTSFTMPSOP.pdf": {
+      "raci": {
+        "pages": [
+          6,
+          15
+        ],
+        "score": 20
+      },
+      "sipoc": {
+        "pages": [],
+        "score": 0
+      }
+    },
+    "SOP Customer Complaint UTMFGSOP15.pdf": {
+      "raci": {
+        "pages": [
+          2
+        ],
+        "score": 2
+      },
+      "sipoc": {
+        "pages": [
+          5
+        ],
+        "score": 1
+      }
+    },
+    "SOP Electrical System Handling UTMFGSOP07.pdf": {
+      "raci": {
+        "pages": [
+          5
+        ],
+        "score": 5
+      },
+      "sipoc": {
+        "pages": [],
+        "score": 0
+      }
+    },
+    "SOP Embedded Process UTSDEPSOP.pdf": {
+      "raci": {
+        "pages": [
+          5,
+          7,
+          8,
+          24
+        ],
+        "score": 43
+      },
+      "sipoc": {
+        "pages": [
+          8
+        ],
+        "score": 2
+      }
+    },
+    "SOP Eye Protection UTMFGSOP05.pdf": {
+      "raci": {
+        "pages": [
+          5
+        ],
+        "score": 5
+      },
+      "sipoc": {
+        "pages": [
+          5
+        ],
+        "score": 2
+      }
+    },
+    "SOP Final Inspection-UTMFGSOP13.pdf": {
+      "raci": {
+        "pages": [
+          5
+        ],
+        "score": 27
+      },
+      "sipoc": {
+        "pages": [
+          5
+        ],
+        "score": 1
+      }
+    },
+    "SOP Forklift Operation and Maintenance UTMFGSOP06.pdf": {
+      "raci": {
+        "pages": [
+          5
+        ],
+        "score": 5
+      },
+      "sipoc": {
+        "pages": [
+          6
+        ],
+        "score": 3
+      }
+    },
+    "SOP Internal Audit (IA) UTIMIASOP.pdf": {
+      "raci": {
+        "pages": [
+          4
+        ],
+        "score": 3
+      },
+      "sipoc": {
+        "pages": [
+          5
+        ],
+        "score": 3
+      }
+    },
+    "SOP Lifting and Movement UTMFGSOP04.pdf": {
+      "raci": {
+        "pages": [
+          5
+        ],
+        "score": 5
+      },
+      "sipoc": {
+        "pages": [
+          5
+        ],
+        "score": 3
+      }
+    },
+    "SOP Manufacturing 1010BC UTMFGSOP09.pdf": {
+      "raci": {
+        "pages": [
+          5,
+          10
+        ],
+        "score": 10
+      },
+      "sipoc": {
+        "pages": [
+          5
+        ],
+        "score": 1
+      }
+    },
+    "SOP Manufacturing and Assembly UTMFGSOP02.pdf": {
+      "raci": {
+        "pages": [
+          6,
+          7,
+          14,
+          18,
+          20,
+          21
+        ],
+        "score": 101
+      },
+      "sipoc": {
+        "pages": [
+          7
+        ],
+        "score": 2
+      }
+    },
+    "SOP Manufacturing Multi Stream Controller UTMFGSOP11.pdf": {
+      "raci": {
+        "pages": [
+          5,
+          11
+        ],
+        "score": 10
+      },
+      "sipoc": {
+        "pages": [
+          6
+        ],
+        "score": 6
+      }
+    },
+    "SOP Manufacturing SSC-SVP UTMFGSOP12.pdf": {
+      "raci": {
+        "pages": [
+          5,
+          11
+        ],
+        "score": 10
+      },
+      "sipoc": {
+        "pages": [
+          6
+        ],
+        "score": 6
+      }
+    },
+    "SOP Measuring Monitoring of Equipment UTMFGSOP14.pdf": {
+      "raci": {
+        "pages": [
+          2,
+          4,
+          5,
+          6
+        ],
+        "score": 9
+      },
+      "sipoc": {
+        "pages": [
+          5
+        ],
+        "score": 1
+      }
+    },
+    "SOP Production Process UTMFGSOP01.pdf": {
+      "raci": {
+        "pages": [
+          7
+        ],
+        "score": 10
+      },
+      "sipoc": {
+        "pages": [
+          8
+        ],
+        "score": 4
+      }
+    },
+    "SOP Raw Material Stores UTMFGSOP03.pdf": {
+      "raci": {
+        "pages": [
+          11
+        ],
+        "score": 9
+      },
+      "sipoc": {
+        "pages": [],
+        "score": 0
+      }
+    },
+    "SOP Usage of Personal Protective Equipment UTMFGSOP08.pdf": {
+      "raci": {
+        "pages": [
+          5
+        ],
+        "score": 6
+      },
+      "sipoc": {
+        "pages": [
+          5
+        ],
+        "score": 1
+      }
+    },
+    "SOP \u2013 Legal Advisory UTSFLSSOP.pdf": {
+      "raci": {
+        "pages": [
+          7,
+          8,
+          12
+        ],
+        "score": 18
+      },
+      "sipoc": {
+        "pages": [
+          8
+        ],
+        "score": 4
+      }
+    },
+    "SOP \u2013 Strategy Deploment Plan - UTIMSDPSOP.pdf": {
+      "raci": {
+        "pages": [
+          5,
+          6
+        ],
+        "score": 6
+      },
+      "sipoc": {
+        "pages": [],
+        "score": 0
+      }
+    },
+    "SOP- Engineering Change Request Management (ECRM) UTSDECRMSOP.pdf": {
+      "raci": {
+        "pages": [
+          7,
+          8
+        ],
+        "score": 14
+      },
+      "sipoc": {
+        "pages": [
+          8
+        ],
+        "score": 7
+      }
+    },
+    "SOP- Infrastructure Support Process.pdf": {
+      "raci": {
+        "pages": [
+          5
+        ],
+        "score": 4
+      },
+      "sipoc": {
+        "pages": [
+          6
+        ],
+        "score": 6
+      }
+    },
+    "SOP- Project Management in Industrial Solutions  UTISSOLSOP.pdf": {
+      "raci": {
+        "pages": [
+          6,
+          16,
+          17
+        ],
+        "score": 15
+      },
+      "sipoc": {
+        "pages": [
+          7
+        ],
+        "score": 3
+      }
+    },
+    "SOP-Administration (ADP)-UTSFADPSOP.pdf": {
+      "raci": {
+        "pages": [
+          5
+        ],
+        "score": 5
+      },
+      "sipoc": {
+        "pages": [
+          6
+        ],
+        "score": 4
+      }
+    },
+    "SOP-Agile Scrum and Kanban (DM)-UTSDDMSOP.pdf": {
+      "raci": {
+        "pages": [
+          6,
+          7
+        ],
+        "score": 8
+      },
+      "sipoc": {
+        "pages": [
+          6
+        ],
+        "score": 1
+      }
+    },
+    "SOP-AHU Duct Leak Test & Test Report UTEPCSOP01.pdf": {
+      "raci": {
+        "pages": [
+          5
+        ],
+        "score": 58
+      },
+      "sipoc": {
+        "pages": [
+          5
+        ],
+        "score": 3
+      }
+    },
+    "SOP-Backup Security and Archival (BSA)-UTSFBSASOP.pdf": {
+      "raci": {
+        "pages": [
+          9
+        ],
+        "score": 6
+      },
+      "sipoc": {
+        "pages": [
+          4
+        ],
+        "score": 1
+      }
+    },
+    "SOP-Change Management UTPSCMPSOP02.pdf": {
+      "raci": {
+        "pages": [
+          4,
+          5
+        ],
+        "score": 4
+      },
+      "sipoc": {
+        "pages": [
+          5
+        ],
+        "score": 4
+      }
+    },
+    "SOP-Coding (CDP)-UTSDCDPSOP.pdf": {
+      "raci": {
+        "pages": [
+          2,
+          5,
+          6
+        ],
+        "score": 29
+      },
+      "sipoc": {
+        "pages": [
+          5
+        ],
+        "score": 1
+      }
+    },
+    "SOP-Computer System Validation (CSV)-UTSDCSVSOP.pdf": {
+      "raci": {
+        "pages": [
+          6,
+          7
+        ],
+        "score": 14
+      },
+      "sipoc": {
+        "pages": [
+          6
+        ],
+        "score": 2
+      }
+    },
+    "SOP-Configuration Management UTPSCMPSOP01.pdf": {
+      "raci": {
+        "pages": [
+          5,
+          6,
+          7
+        ],
+        "score": 13
+      },
+      "sipoc": {
+        "pages": [
+          5
+        ],
+        "score": 1
+      }
+    },
+    "SOP-Content Management (CTM)-UTSMCTMSOP.pdf": {
+      "raci": {
+        "pages": [
+          5
+        ],
+        "score": 6
+      },
+      "sipoc": {
+        "pages": [
+          5
+        ],
+        "score": 3
+      }
+    },
+    "SOP-Control of Non-Conforming Product (CNP)-UTPSCNPSOP.pdf": {
+      "raci": {
+        "pages": [],
+        "score": 0
+      },
+      "sipoc": {
+        "pages": [
+          6
+        ],
+        "score": 1
+      }
+    },
+    "SOP-Customer Escalation (CES)-UTPSCESSOP.pdf": {
+      "raci": {
+        "pages": [],
+        "score": 0
+      },
+      "sipoc": {
+        "pages": [
+          5
+        ],
+        "score": 1
+      }
+    },
+    "SOP-CustomerFeedback (CFP)-UTPSCFPSOP.pdf": {
+      "raci": {
+        "pages": [
+          5
+        ],
+        "score": 2
+      },
+      "sipoc": {
+        "pages": [
+          5
+        ],
+        "score": 2
+      }
+    },
+    "SOP-Decision Analysis and Resolution UTIMDARSOP.pdf": {
+      "raci": {
+        "pages": [
+          3,
+          4,
+          5
+        ],
+        "score": 12
+      },
+      "sipoc": {
+        "pages": [
+          5
+        ],
+        "score": 3
+      }
+    },
+    "SOP-Design (DSP)-UTSDDSPSOP.pdf": {
+      "raci": {
+        "pages": [
+          10
+        ],
+        "score": 15
+      },
+      "sipoc": {
+        "pages": [
+          5
+        ],
+        "score": 1
+      }
+    },
+    "SOP-Externally Provided Property (EPP)-UTIMEPPSOP.pdf": {
+      "raci": {
+        "pages": [],
+        "score": 0
+      },
+      "sipoc": {
+        "pages": [
+          4
+        ],
+        "score": 1
+      }
+    },
+    "SOP-Incoming Goods Inspection UTPSIGISOP.pdf": {
+      "raci": {
+        "pages": [
+          7,
+          10
+        ],
+        "score": 24
+      },
+      "sipoc": {
+        "pages": [
+          8
+        ],
+        "score": 6
+      }
+    },
+    "SOP-IT Infrastructure Maintenance (ITP)-UTSFITPSOP.pdf": {
+      "raci": {
+        "pages": [
+          6,
+          17
+        ],
+        "score": 7
+      },
+      "sipoc": {
+        "pages": [
+          7
+        ],
+        "score": 6
+      }
+    },
+    "SOP-Lead Management (LMP)-UTSMLMPSOP.pdf": {
+      "raci": {
+        "pages": [
+          7
+        ],
+        "score": 2
+      },
+      "sipoc": {
+        "pages": [
+          6
+        ],
+        "score": 1
+      }
+    },
+    "SOP-Management Systems (MSP)-UTIMMSPSOP.pdf": {
+      "raci": {
+        "pages": [
+          6,
+          7,
+          9,
+          21,
+          34
+        ],
+        "score": 35
+      },
+      "sipoc": {
+        "pages": [
+          7
+        ],
+        "score": 1
+      }
+    },
+    "SOP-Measurement, Analysis and Improvement (MAI)-UTIMMAISOP .pdf": {
+      "raci": {
+        "pages": [
+          6
+        ],
+        "score": 2
+      },
+      "sipoc": {
+        "pages": [
+          6
+        ],
+        "score": 2
+      }
+    },
+    "SOP-Order to Cash UTSMOCSOP.pdf": {
+      "raci": {
+        "pages": [
+          2,
+          5,
+          6
+        ],
+        "score": 8
+      },
+      "sipoc": {
+        "pages": [
+          6
+        ],
+        "score": 5
+      }
+    },
+    "SOP-Procurement (PRO) - UTSFPROSOP.pdf": {
+      "raci": {
+        "pages": [
+          7,
+          22,
+          24
+        ],
+        "score": 48
+      },
+      "sipoc": {
+        "pages": [
+          7
+        ],
+        "score": 3
+      }
+    },
+    "SOP-Product Integration (PIP)-UTSDPIPSOP.pdf": {
+      "raci": {
+        "pages": [
+          1
+        ],
+        "score": 3
+      },
+      "sipoc": {
+        "pages": [],
+        "score": 0
+      }
+    },
+    "SOP-Project Closure (PCP)-UTPMPCPSOP.pdf": {
+      "raci": {
+        "pages": [
+          6
+        ],
+        "score": 41
+      },
+      "sipoc": {
+        "pages": [
+          4
+        ],
+        "score": 1
+      }
+    },
+    "SOP-Project Planning (PPP)-UTPMPPPSOP.pdf": {
+      "raci": {
+        "pages": [
+          5
+        ],
+        "score": 16
+      },
+      "sipoc": {
+        "pages": [
+          5
+        ],
+        "score": 1
+      }
+    },
+    "SOP-Release Replication Delivery and Installation (RRD)-UTSDRRDSOP.pdf": {
+      "raci": {
+        "pages": [
+          2
+        ],
+        "score": 2
+      },
+      "sipoc": {
+        "pages": [],
+        "score": 0
+      }
+    },
+    "SOP-Requirements Specification (RSP)-UTSDRSPSOP.pdf": {
+      "raci": {
+        "pages": [],
+        "score": 0
+      },
+      "sipoc": {
+        "pages": [
+          5
+        ],
+        "score": 1
+      }
+    },
+    "SOP-Review Process(RVP)-UTPSRVPSOP.pdf": {
+      "raci": {
+        "pages": [
+          5
+        ],
+        "score": 39
+      },
+      "sipoc": {
+        "pages": [
+          5
+        ],
+        "score": 1
+      }
+    },
+    "SOP-Risk & Opportunity Management(RMP) - UTIMRMPSOP.pdf": {
+      "raci": {
+        "pages": [
+          8,
+          9,
+          17
+        ],
+        "score": 51
+      },
+      "sipoc": {
+        "pages": [],
+        "score": 0
+      }
+    },
+    "SOP-Testing Validation and Acceptance (TVA)-UTSDTVASOP.pdf": {
+      "raci": {
+        "pages": [
+          5
+        ],
+        "score": 30
+      },
+      "sipoc": {
+        "pages": [
+          5
+        ],
+        "score": 1
+      }
+    },
+    "Stage Gate Process SOP UTSMSGPSOP.pdf": {
+      "raci": {
+        "pages": [
+          6,
+          7,
+          8,
+          9,
+          10,
+          11
+        ],
+        "score": 47
+      },
+      "sipoc": {
+        "pages": [
+          12
+        ],
+        "score": 13
+      }
+    }
+  }
+}
